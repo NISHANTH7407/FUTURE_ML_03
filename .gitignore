@@ -1,0 +1,14 @@
+# Ignore raw data
+data/
+
+# Ignore processed/generated data
+processed_data/
+Resume/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env & secrets
+venv/
+.env
